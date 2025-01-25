@@ -1,1 +1,3 @@
 env_py
+results/checkpoint*
+trained_model

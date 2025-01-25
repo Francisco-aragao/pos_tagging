@@ -1,0 +1,62 @@
+[
+    {
+        "word": "Jersei",
+        "expected_tag": "N",
+        "predicted_tag": "LABEL_8",
+        "correct": false
+    },
+    {
+        "word": "atinge",
+        "expected_tag": "V",
+        "predicted_tag": "LABEL_8",
+        "correct": false
+    },
+    {
+        "word": "média",
+        "expected_tag": "N",
+        "predicted_tag": "LABEL_8",
+        "correct": false
+    },
+    {
+        "word": "de",
+        "expected_tag": "PREP",
+        "predicted_tag": "LABEL_13",
+        "correct": false
+    },
+    {
+        "word": "Cr$",
+        "expected_tag": "CUR",
+        "predicted_tag": "LABEL_4",
+        "correct": false
+    },
+    {
+        "word": "1,4",
+        "expected_tag": "NUM",
+        "predicted_tag": "LABEL_10",
+        "correct": false
+    },
+    {
+        "word": "milhão",
+        "expected_tag": "N",
+        "predicted_tag": "LABEL_8",
+        "correct": false
+    },
+    {
+        "word": "na",
+        "expected_tag": "PREP+ART",
+        "predicted_tag": "LABEL_15",
+        "correct": false
+    },
+    {
+        "word": "venda",
+        "expected_tag": "N",
+        "predicted_tag": "LABEL_8",
+        "correct": false
+    },
+    {
+        "word": "da",
+        "expected_tag": "PREP+ART",
+        "predicted_tag": "LABEL_15",
+        "correct": false
+    }
+]
